@@ -21,7 +21,7 @@ Analyzed 1.1 million accident records to identify temporal patterns, weather imp
 
 
 ## 🚀 How to Run
-1. Place `US_Accidents_March23.csv` in project root
+1. Place `https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents` in project root
 2. Install requirements:
    ```bash
    pip install pandas matplotlib seaborn
