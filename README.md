@@ -1,10 +1,6 @@
 # US Traffic Accident Analytics (2016-2023) 🚔📈
 
-![Accident Patterns Dashboard]("F:\SKILL CRAFT INTENSHIP\T4\Figure_1.png"
-"F:\SKILL CRAFT INTENSHIP\T4\Figure_2.png"
-"F:\SKILL CRAFT INTENSHIP\T4\Figure_3.png"
-"F:\SKILL CRAFT INTENSHIP\T4\Figure_4.png"
-"F:\SKILL CRAFT INTENSHIP\T4\Figure_5.png") 
+![Accident Patterns Dashboard]() 
 ## 📌 Overview
 Analyzed 1.1 million accident records to identify temporal patterns, weather impacts, and infrastructure risk factors. This project demonstrates efficient large dataset processing and clear visual storytelling.
 
@@ -24,4 +20,9 @@ Analyzed 1.1 million accident records to identify temporal patterns, weather imp
 - **Libraries**: Pandas (chunked processing), Seaborn, Matplotlib
 - **Techniques**: Time-series decomposition, geospatial sampling
 
-## 📂 Project Structure
+
+## 🚀 How to Run
+1. Place `US_Accidents_March23.csv` in project root
+2. Install requirements:
+   ```bash
+   pip install pandas matplotlib seaborn
