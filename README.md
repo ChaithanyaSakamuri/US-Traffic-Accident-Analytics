@@ -1,6 +1,5 @@
 # US Traffic Accident Analytics (2016-2023) 🚔📈
 
-![Accident Patterns Dashboard]() 
 ## 📌 Overview
 Analyzed 1.1 million accident records to identify temporal patterns, weather impacts, and infrastructure risk factors. This project demonstrates efficient large dataset processing and clear visual storytelling.
 
